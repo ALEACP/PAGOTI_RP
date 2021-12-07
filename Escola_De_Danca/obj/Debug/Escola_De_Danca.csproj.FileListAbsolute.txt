@@ -1,0 +1,10 @@
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\bin\Debug\Escola_De_Danca.exe.config
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\bin\Debug\Escola_De_Danca.exe
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\bin\Debug\Escola_De_Danca.pdb
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\obj\Debug\Escola_De_Danca.Properties.Resources.resources
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\obj\Debug\Escola_De_Danca.csproj.GenerateResource.cache
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\obj\Debug\Escola_De_Danca.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\obj\Debug\Escola_De_Danca.exe
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\obj\Debug\Escola_De_Danca.pdb
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_De_Danca\Escola_De_Danca\obj\Debug\Escola_De_Danca.csproj.AssemblyReference.cache
+D:\ESTUDOS\REPOSITÓRIO GIT\GFFWEBService\Escola_de_Danca\Escola_De_Danca\obj\Debug\Escola_De_Danca.CadastroAluno.resources
