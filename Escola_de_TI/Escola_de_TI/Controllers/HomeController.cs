@@ -17,7 +17,7 @@ namespace Escola_de_TI.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Essa é minha primeira aplicação de exemplo ASP.NET Core.";
 
             return View();
         }
