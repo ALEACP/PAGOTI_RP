@@ -17,14 +17,14 @@ namespace ACP_Tech.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Descrição da aplicação.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Fale conosco.";
 
             return View();
         }
