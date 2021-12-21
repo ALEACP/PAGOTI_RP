@@ -15,5 +15,7 @@ namespace ACP_Tech.Data
         }
 
         public DbSet<ACP_Tech.Models.Curso> Curso { get; set; }
+
+        public DbSet<ACP_Tech.Models.Aluno> Aluno { get; set; }
     }
 }

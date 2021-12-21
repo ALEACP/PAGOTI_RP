@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - ACP_Tech</title>
+    <title>@ViewData["Title"] - ACP Tech</title>
 
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-flatly.css" />
@@ -26,12 +26,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">ACP_Tech</a>
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">ACP Tech</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-                    <li><a asp-area="" asp-controller="Cursos" asp-action="Index">Cadastro de Cursos</a></li>
+                    <li><a asp-area="" asp-controller="Cursos" asp-action="Index">Cursos</a></li>
+                    <li><a asp-area="" asp-controller="Alunos" asp-action="Index">Alunos</a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="About">Sobre</a></li>
                     <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contato</a></li>
                 </ul>
@@ -45,7 +46,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; 2021 - ACP_Tech</p>
+            <p>&copy; 2021 - ACP Tech</p>
         </footer>
     </div>
 

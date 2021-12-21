@@ -7,5 +7,7 @@ namespace ACP_Tech.Models
 {
     public class Professor
     {
+        public double ValorHora { get; set; }
+
     }
 }

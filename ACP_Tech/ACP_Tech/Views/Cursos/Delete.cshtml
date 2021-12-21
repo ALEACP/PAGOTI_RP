@@ -1,20 +1,20 @@
 ﻿@model ACP_Tech.Models.Curso
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Excluir";
 }
 
-<h2>Excluir</h2>
+<h2>@ViewData["Title"]</h2>
 
 <h3>Gostaria de excluir o registro?</h3>
 <div>
     <hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.Nome)
+            @Html.DisplayNameFor(model => model.NomeCurso)
         </dt>
         <dd>
-            @Html.DisplayFor(model => model.Nome)
+            @Html.DisplayFor(model => model.NomeCurso)
         </dd>
         <dt>
             @Html.DisplayNameFor(model => model.Valor)
@@ -32,7 +32,7 @@
     
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <input type="submit" value="Excluir" class="btn btn-default" /> |
         <a asp-action="Index">Voltar</a>
     </form>
 </div>

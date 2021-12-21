@@ -5,14 +5,12 @@ using System.Threading.Tasks;
 
 namespace ACP_Tech.Models
 {
-    public class Aluno
+    public class Aluno: Pessoa 
     {
-        public int Id { get; set; }
-        public string Nome { get; set; }
-        public string CPF { get; set; }
+        public int Id { get; set; }      
         public long Matricula { get; set; }
-        public DateTime DataNascimento { get; set; }
-        public string Email { get; set; }
+        public DateTime DataNascimento { get; set; }        
         public string Sexo { get; set; }
+                    
     }
 }

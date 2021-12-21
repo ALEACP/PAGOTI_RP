@@ -10,22 +10,22 @@ using ACP_Tech.Models;
 
 namespace ACP_Tech.Controllers
 {
-    public class CursosController : Controller
+    public class AlunosController : Controller
     {
         private readonly ACP_TechContext _context;
 
-        public CursosController(ACP_TechContext context)
+        public AlunosController(ACP_TechContext context)
         {
             _context = context;
         }
 
-        // GET: Cursos
+        // GET: Alunos
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Curso.ToListAsync());
+            return View(await _context.Aluno.ToListAsync());
         }
 
-        // GET: Cursos/Details/5
+        // GET: Alunos/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -33,39 +33,39 @@ namespace ACP_Tech.Controllers
                 return NotFound();
             }
 
-            var curso = await _context.Curso
+            var aluno = await _context.Aluno
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (curso == null)
+            if (aluno == null)
             {
                 return NotFound();
             }
 
-            return View(curso);
+            return View(aluno);
         }
 
-        // GET: Cursos/Create
+        // GET: Alunos/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Cursos/Create
+        // POST: Alunos/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,NomeCurso,Valor,CargaHoraria")] Curso curso)
+        public async Task<IActionResult> Create([Bind("Id,Matricula,DataNascimento,Sexo,Nome,CPF,Email")] Aluno aluno)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(curso);
+                _context.Add(aluno);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(curso);
+            return View(aluno);
         }
 
-        // GET: Cursos/Edit/5
+        // GET: Alunos/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -73,22 +73,22 @@ namespace ACP_Tech.Controllers
                 return NotFound();
             }
 
-            var curso = await _context.Curso.FindAsync(id);
-            if (curso == null)
+            var aluno = await _context.Aluno.FindAsync(id);
+            if (aluno == null)
             {
                 return NotFound();
             }
-            return View(curso);
+            return View(aluno);
         }
 
-        // POST: Cursos/Edit/5
+        // POST: Alunos/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,NomeCurso,Valor,CargaHoraria")] Curso curso)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Matricula,DataNascimento,Sexo,Nome,CPF,Email")] Aluno aluno)
         {
-            if (id != curso.Id)
+            if (id != aluno.Id)
             {
                 return NotFound();
             }
@@ -97,12 +97,12 @@ namespace ACP_Tech.Controllers
             {
                 try
                 {
-                    _context.Update(curso);
+                    _context.Update(aluno);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!CursoExists(curso.Id))
+                    if (!AlunoExists(aluno.Id))
                     {
                         return NotFound();
                     }
@@ -113,10 +113,10 @@ namespace ACP_Tech.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(curso);
+            return View(aluno);
         }
 
-        // GET: Cursos/Delete/5
+        // GET: Alunos/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -124,30 +124,30 @@ namespace ACP_Tech.Controllers
                 return NotFound();
             }
 
-            var curso = await _context.Curso
+            var aluno = await _context.Aluno
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (curso == null)
+            if (aluno == null)
             {
                 return NotFound();
             }
 
-            return View(curso);
+            return View(aluno);
         }
 
-        // POST: Cursos/Delete/5
+        // POST: Alunos/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var curso = await _context.Curso.FindAsync(id);
-            _context.Curso.Remove(curso);
+            var aluno = await _context.Aluno.FindAsync(id);
+            _context.Aluno.Remove(aluno);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool CursoExists(int id)
+        private bool AlunoExists(int id)
         {
-            return _context.Curso.Any(e => e.Id == id);
+            return _context.Aluno.Any(e => e.Id == id);
         }
     }
 }
