@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ACP_Tech.Migrations
 {
-    public partial class Initial2 : Migration
+    public partial class ACP_Tech : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -17,6 +17,7 @@ namespace ACP_Tech.Migrations
                     Email = table.Column<string>(nullable: true),
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                    CursoId = table.Column<int>(nullable: false),
                     Matricula = table.Column<long>(nullable: false),
                     DataNascimento = table.Column<DateTime>(nullable: false),
                     Sexo = table.Column<string>(nullable: true)

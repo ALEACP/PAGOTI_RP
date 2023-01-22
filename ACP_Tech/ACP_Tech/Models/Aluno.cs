@@ -7,7 +7,8 @@ namespace ACP_Tech.Models
 {
     public class Aluno: Pessoa 
     {
-        public int Id { get; set; }      
+        public int Id { get; set; }
+        public int CursoId { get; set; }
         public long Matricula { get; set; }
         public DateTime DataNascimento { get; set; }        
         public string Sexo { get; set; }

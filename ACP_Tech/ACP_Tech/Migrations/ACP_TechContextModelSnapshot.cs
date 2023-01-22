@@ -27,6 +27,8 @@ namespace ACP_Tech.Migrations
 
                     b.Property<string>("CPF");
 
+                    b.Property<int>("CursoId");
+
                     b.Property<DateTime>("DataNascimento");
 
                     b.Property<string>("Email");

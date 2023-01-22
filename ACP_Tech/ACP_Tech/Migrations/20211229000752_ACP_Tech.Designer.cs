@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ACP_Tech.Migrations
 {
     [DbContext(typeof(ACP_TechContext))]
-    [Migration("20211221014105_Initial2")]
-    partial class Initial2
+    [Migration("20211229000752_ACP_Tech")]
+    partial class ACP_Tech
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -28,6 +28,8 @@ namespace ACP_Tech.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("CPF");
+
+                    b.Property<int>("CursoId");
 
                     b.Property<DateTime>("DataNascimento");
 

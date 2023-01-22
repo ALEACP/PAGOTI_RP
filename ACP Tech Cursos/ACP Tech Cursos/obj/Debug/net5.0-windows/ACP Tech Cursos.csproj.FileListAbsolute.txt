@@ -1,0 +1,120 @@
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.csproj.AssemblyReference.cache
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP_Tech_Cursos.CadastroAluno.resources
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.csproj.GenerateResource.cache
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.AssemblyInfoInputs.cache
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.AssemblyInfo.cs
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP_Tech_Cursos.View.frmPrincipal.resources
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.exe
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\View\frmPrincipal.cs
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.deps.json
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.runtimeconfig.json
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.runtimeconfig.dev.json
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ref\ACP Tech Cursos.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.pdb
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Humanizer.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.csproj.CopyComplete
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ref\ACP Tech Cursos.dll
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.pdb
+D:\ESTUDOS\PROJETOS SISTEMA\Projetos C#\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.genruntimeconfig.cache
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.exe
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\View\frmPrincipal.cs
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.deps.json
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.runtimeconfig.json
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.runtimeconfig.dev.json
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ref\ACP Tech Cursos.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\ACP Tech Cursos.pdb
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Humanizer.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.csproj.AssemblyReference.cache
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP_Tech_Cursos.CadastroAluno.resources
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP_Tech_Cursos.View.frmPrincipal.resources
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.csproj.GenerateResource.cache
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.AssemblyInfoInputs.cache
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.AssemblyInfo.cs
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.csproj.CopyComplete
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ref\ACP Tech Cursos.dll
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.pdb
+D:\ESTUDOS\REPOSITÓRIO GIT\PAGOTI_RP\ACP Tech Cursos\ACP Tech Cursos\obj\Debug\net5.0-windows\ACP Tech Cursos.genruntimeconfig.cache

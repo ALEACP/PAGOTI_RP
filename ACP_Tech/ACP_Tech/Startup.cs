@@ -11,6 +11,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using ACP_Tech.Data;
+using ACP_Tech.Services;
+
 
 namespace ACP_Tech
 {
@@ -38,6 +40,10 @@ namespace ACP_Tech
 
             services.AddDbContext<ACP_TechContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("ACP_TechContext")));
+            
+            //Implementado a classe de serviços
+            services.AddScoped<AlunoService>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

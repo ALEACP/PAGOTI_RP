@@ -9,13 +9,16 @@ namespace ACP_Tech.Data
 {
     public class ACP_TechContext : DbContext
     {
+
         public ACP_TechContext (DbContextOptions<ACP_TechContext> options)
             : base(options)
         {
         }
 
-        public DbSet<ACP_Tech.Models.Curso> Curso { get; set; }
+        public DbSet<ACP_Tech.Models.Curso> Curso { get; set; }       
 
         public DbSet<ACP_Tech.Models.Aluno> Aluno { get; set; }
+
+
     }
 }

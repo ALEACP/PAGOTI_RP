@@ -7,17 +7,24 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ACP_Tech.Data;
 using ACP_Tech.Models;
+using ACP_Tech.Models.ViewModels;
+using ACP_Tech.Services;
 
 namespace ACP_Tech.Controllers
 {
     public class CursosController : Controller
     {
         private readonly ACP_TechContext _context;
-
+        //private readonly CursoService _cursoservice;
         public CursosController(ACP_TechContext context)
         {
             _context = context;
         }
+
+        //public CursosController (CursoService cursoService) 
+        //{
+        //    _cursoservice = cursoService;
+        //}
 
         // GET: Cursos
         public async Task<IActionResult> Index()
@@ -46,7 +53,7 @@ namespace ACP_Tech.Controllers
         // GET: Cursos/Create
         public IActionResult Create()
         {
-            return View();
+           return View();
         }
 
         // POST: Cursos/Create
